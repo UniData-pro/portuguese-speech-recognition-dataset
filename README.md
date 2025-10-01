@@ -2,11 +2,11 @@
 
 Dataset comprises **406** hours of telephone dialogues in Portuguese, collected from **590** native speakers across various topics and domains. This dataset boasts an impressive **98%** word accuracy rate, making it a valuable resource for advancing **speech recognition technology**.
 
-By utilizing this dataset, researchers and developers can advance their understanding and capabilities in **automatic speech recognition** (ASR) systems, **transcribing audio**, and **natural language processing** (NLP).  - **[Get the data](https://unidata.pro/datasets/portuguese-speech-recognition-dataset/?utm_source=github&utm_medium=cpc&utm_campaign=portuguese-speech-recognition-dataset)**
+By utilizing this dataset, researchers and developers can advance their understanding and capabilities in **automatic speech recognition** (ASR) systems, **transcribing audio**, and **natural language processing** (NLP).  - **[Get the data](https://unidata.pro/datasets/portuguese-speech-recognition-dataset/?utm_source=github&utm_medium=referral&utm_campaign=portuguese-speech-recognition-dataset)**
 
 The dataset includes high-quality audio recordings with text transcriptions, making it ideal for training and evaluating speech recognition models.
 
-# 💵 Buy the Dataset: This is a limited preview of the data. To access the full dataset, please contact us at [https://unidata.pro](https://unidata.pro/datasets/spanish-speech-recognition-dataset/?utm_source=github&utm_medium=cpc&utm_campaign=portuguese-speech-recognition-dataset) to discuss your requirements and pricing options.
+# 💵 Buy the Dataset: This is a limited preview of the data. To access the full dataset, please contact us at [https://unidata.pro](https://unidata.pro/datasets/spanish-speech-recognition-dataset/?utm_source=github&utm_medium=referral&utm_campaign=portuguese-speech-recognition-dataset) to discuss your requirements and pricing options.
 
 ## Metadata for the dataset
 
@@ -18,4 +18,4 @@ The dataset includes high-quality audio recordings with text transcriptions, mak
 
 
 This dataset is a valuable resource for researchers and developers working on speech recognition, language models, and speech technology.
-# 🌐 [UniData](https://unidata.pro/datasets/portuguese-speech-recognition-dataset/?utm_source=github&utm_medium=cpc&utm_campaign=portuguese-speech-recognition-dataset) provides high-quality datasets, content moderation, data collection and annotation for your AI/ML projects 
+# 🌐 [UniData](https://unidata.pro/datasets/portuguese-speech-recognition-dataset/?utm_source=github&utm_medium=referral&utm_campaign=portuguese-speech-recognition-dataset) provides high-quality datasets, content moderation, data collection and annotation for your AI/ML projects 
